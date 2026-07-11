@@ -4,12 +4,10 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import {
   ArrowRight,
   Check,
-  Code2,
   Eye,
   EyeOff,
   LockKeyhole,
   Mail,
-  Sparkles,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
